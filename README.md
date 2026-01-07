@@ -29,8 +29,11 @@ Stable Diffusion models are large (3–4 GB). Google Colab provides:
 - Sufficient disk space
 - Faster execution
 - No local system limitations
+## 🚀 Run Notebook in Google Colab
+[![Open In Colab]([https://colab.research.google.com/github/Yasmeenrafique/PRODIGY_GA_02/blob/main/Image_Generation.ipynb])
 
----
+[Open in Google Colab](https://colab.research.google.com/github/Yasmeenrafique/PRODIGY_GA_02/blob/main/Image_Generation.ipynb)
+
 
 ## 📥 Input Prompts
 Example prompts used in this project:
